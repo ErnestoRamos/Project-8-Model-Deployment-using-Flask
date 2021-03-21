@@ -15,3 +15,5 @@ The default port flask will run on is port 5000.
  
 ![image](https://user-images.githubusercontent.com/56518821/111894214-4c8db600-89df-11eb-9df1-83f0f76442d3.png)
 
+With 5 years experience, and an 8 test score and interview score, the expected salary is ~64k
+![image](https://user-images.githubusercontent.com/56518821/111921844-30d0f100-8a6d-11eb-8b9b-c6dcee464997.png)
