@@ -13,4 +13,5 @@ Note that you must have Scikit Learn, Pandas and Flask (for API) installed.
 The default port flask will run on is port 5000.
   - ie. URL http://localhost:5000
  
+![image](https://user-images.githubusercontent.com/56518821/111894214-4c8db600-89df-11eb-9df1-83f0f76442d3.png)
 
