@@ -1,7 +1,7 @@
 # Project-8-Model-Deployment-using-Flask
 
 This repository contains a demo on how to deploy a saved ML model (via pkl) using Flask API. 
-This application may be used by a hiring manager to predict the expected salary of an applicant based on the applicant's year's of exprience, test score, and interview score. 
+The application included in this repository may be used by a hiring manager to predict the expected salary of an applicant based on the applicant's year's of exprience (0+), test score (0-10), and interview score (0-10). 
 
 Note that you must have Scikit Learn, Pandas and Flask (for API) installed.
 
